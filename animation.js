@@ -1,6 +1,7 @@
 console.log("teste");
 console.log("teste 2");
 console.log("teste 3");
+console.log("teste 4");
 
 
 $('h2').attr('text-split', "");
